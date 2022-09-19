@@ -20,9 +20,7 @@ public class SceneChanger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //returEgg(int );
-      if(egg=true){
-        Debug.Log("test");
+
 
       }  
     }
