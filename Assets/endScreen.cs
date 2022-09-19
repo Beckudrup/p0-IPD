@@ -15,15 +15,17 @@ public class endScreen : MonoBehaviour
     public string[] con5;
     public string[] con6;
     public string usertypeIntro;
-   
+   /*
     public Image[] meme;
+    public Sprite[] memebillede;
+   */
     public TextMeshProUGUI answerDisplay;
     public TextMeshProUGUI answerDisplay2;
     public TextMeshProUGUI answerDisplay3;
     public TextMeshProUGUI answerDisplay4;
     public TextMeshProUGUI answerDisplay5;
     public TextMeshProUGUI answerDisplay6;
-
+    
     public TextMeshProUGUI userType;
 
 
@@ -41,8 +43,9 @@ public class endScreen : MonoBehaviour
         answerDisplay6.text = con6[manager.instance.questionAnswerList[6]];
         
         userType.text = usertypeIntro + con1[manager.instance.questionAnswerList[0]];
-      
-        //meme.sprite=
+        //meme[1].sprite = memebillede[manager.instance.questionAnswerList[0]];
+        //button[i].text = questions[questionIndex].questions[i].answer;
+
 
 
     }

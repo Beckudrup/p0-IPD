@@ -23,7 +23,7 @@ public class SceneChanger : MonoBehaviour
 
 
       }  
-    }
+    
 
 public void nextslide(){
     SceneManager.LoadScene(nextScreen);
