@@ -206,6 +206,12 @@ MonoBehaviour:
   - 
   - 
   usertypeIntro: 'Du er en '
+  meme: {fileID: 1866184093}
+  memebillede:
+  - {fileID: 21300000, guid: 5520548e6afc88a4fb69743767cf775a, type: 3}
+  - {fileID: 21300000, guid: 2321952cae0da3b48944b157aada9c78, type: 3}
+  - {fileID: 21300000, guid: 5258061b4ed88a7488e68660a0a29c7c, type: 3}
+  - {fileID: 21300000, guid: a7ba04c82784ce04196c8362727823ed, type: 3}
   answerDisplay: {fileID: 827203260}
   answerDisplay2: {fileID: 774199792}
   answerDisplay3: {fileID: 1336769112}

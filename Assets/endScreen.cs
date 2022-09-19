@@ -15,10 +15,10 @@ public class endScreen : MonoBehaviour
     public string[] con5;
     public string[] con6;
     public string usertypeIntro;
-   /*
-    public Image[] meme;
+   
+    public Image meme;
     public Sprite[] memebillede;
-   */
+   
     public TextMeshProUGUI answerDisplay;
     public TextMeshProUGUI answerDisplay2;
     public TextMeshProUGUI answerDisplay3;
@@ -32,18 +32,24 @@ public class endScreen : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
-        answerDisplay.text = con15[manager.instance.questionAnswerList[1]];
-        
-        answerDisplay2.text = con2[manager.instance.questionAnswerList[2]];
-        
-        answerDisplay3.text = con3[manager.instance.questionAnswerList[3]];
-        answerDisplay4.text = con4[manager.instance.questionAnswerList[4]];
-        answerDisplay5.text = con5[manager.instance.questionAnswerList[5]];
-        answerDisplay6.text = con6[manager.instance.questionAnswerList[6]];
-        
         userType.text = usertypeIntro + con1[manager.instance.questionAnswerList[0]];
-        //meme[1].sprite = memebillede[manager.instance.questionAnswerList[0]];
+        meme.sprite = memebillede[manager.instance.questionAnswerList[0]];
+        answerDisplay.text = con15[manager.instance.questionAnswerList[0]];
+        
+
+
+
+        answerDisplay2.text = con2[manager.instance.questionAnswerList[1]];
+        
+        answerDisplay3.text = con3[manager.instance.questionAnswerList[2]];
+
+        answerDisplay4.text = con4[manager.instance.questionAnswerList[3]];
+
+        answerDisplay5.text = con5[manager.instance.questionAnswerList[4]];
+
+        answerDisplay6.text = con6[manager.instance.questionAnswerList[5]];
+        
+
         //button[i].text = questions[questionIndex].questions[i].answer;
 
 
