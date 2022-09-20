@@ -153,43 +153,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   con1:
-  - Mester Hacker
-  - Photoshop Wizard
-  - VR Kirito
-  - Special Effekt manden
+  - 'Legal Hacker  '
+  - 'Digital Picasso  '
+  - VR Wizard
+  - 'VFX Illusionist  '
   con15:
-  - "Fedt! P\xE5 medialogi kommer du til at arbejde bl.a. med c#, c++, python og
-    mange andre. I projektarbejdet p\xE5 AAU kommer du til at designe digitale l\xF8sninger
-    helt fra bunden, men det er ikke en foruds\xE6tning at kunne i forvejen."
-  - "Bare tr\xE6d n\xE6rmere! Grafik er en af de vigtigste kommunikationsformer i
-    den digitale verden. P\xE5 medialogi bliver der bl.a. undervist i animation,
-    billedbehandling og visual computing. Du l\xE6rer ogs\xE5 at kombinere grafisk
-    design med viden om interaktionsdesign, s\xE5 du kan skabe digitale oplevelser
-    der er b\xE5de brugervenlige og \xE6stetiske. "
-  - "Sp\xE6ndende! P\xE5 medialogi f\xE5r du rig mulighed for at pr\xF8ve kr\xE6fter
-    med spiludvikling. Du l\xE6rer at designe og programmere dine egne spiloplevelser,
-    b\xE5de i 3d-engines som Unity og med state-of-the-art VR-udstyr i AAU's Multisensory
-    experience lab. "
-  - "Episk! P\xE5 Medialogi uddannelsen l\xE6rer du massere omkring lyd, film og
-    special effects, som man kan bruge til projekterne. Som Medialog f\xE5r du ogs\xE5
-    mulighed for at benytte dig af AAU\u2019s Multisensory Experience Lab, hvor du
-    blandt andet kan arbejde med VR, motion capture, surround sound og mulighed for
-    at optage i et helt lydt\xE6t rum! "
+  - "P\xE5 Medialogi bliver du undervist af passionerede forskere, men du f\xE5r
+    ogs\xE5 selv en stor indflydelse p\xE5, hvad du vil arbejde med i dine projekter.
+    Du vil blive undervist i at kode i bl.a. C# og Python. Projektarbejdet p\xE5
+    AAU tager udgangspunkt i problemer fra verden udenfor universitetet, og her kommer
+    du til at programmere spil, apps og interaktive installationer fra bunden af.  "
+  - "P\xE5 Medialogi bliver du undervist af passionerede forskere, men du f\xE5r
+    ogs\xE5 selv en stor indflydelse p\xE5, hvad du vil arbejde med i dine projekter.
+    Du vil bl.a. blive undervist i animation, billedbehandling og visual computing.
+    Projektarbejdet p\xE5 AAU tager udgangspunkt i problemer fra verden udenfor universitetet,
+    og her f\xE5r du mulighed for at designe digitale l\xF8sninger som er b\xE5de
+    brugervenlige og \xE6stetiske.    "
+  - "P\xE5 Medialogi bliver du undervist af passionerede forskere, men du f\xE5r
+    ogs\xE5 selv en stor indflydelse p\xE5, hvad du vil arbejde med i dine projekter.
+    Du vil blive undervist i at designe og programmere dine egne spiloplevelser i
+    3D-engines som Unity.  Projektarbejdet p\xE5 AAU tager udgangspunkt i problemer
+    fra verden udenfor universitetet, og her f\xE5r du mulighed for at arbejde med
+    state-of-the-art VR-udstyr i AAU's Multi Sensory experience lab. "
+  - "P\xE5 Medialogi bliver du undervist af passionerede forskere, men du f\xE5r
+    ogs\xE5 selv en stor indflydelse p\xE5, hvad du vil arbejde med i dine projekter.
+    Du vil bl.a. blive undervist i processering af lydsignaler, animation, og design
+    af \u201CMixed reality\u201D oplevelser. Projektarbejdet p\xE5 AAU tager udgangspunkt
+    i problemer fra verden udenfor universitetet, og her kan du f.eks. arbejde med
+    motion capture eller surround sound i AAU\u2019s Multisensory Experience Lab.   "
   con2:
-  - Det godt du kan lide vand din normie
-  - "Amper no way det ogs\xE5 min favorit"
-  - Kaffe er du like 40
-  - "Te?! Kommer du fra England eller s\xE5dan noget"
+  - "Og s\xE5 er det godt du kan lide vand, din normie ;) Der er heldigvis massere
+    af vandposter til dig p\xE5 AAU\u2019s campus.   "
+  - "Drikker du Amper? Redbull? Fra AAU campus er der ikke langt til Netto eller
+    Circle K, hvor du kan f\xE5 dit energi-fix.   "
+  - "Du er vild med Kaffe? Er du like 40 \xE5r? Jk, alle er velkomne p\xE5 AAU og
+    kantinen s\xE6lger kaffe til en 10\u2019er.  "
+  - "Drikker du te? Kommer du fra England eller s\xE5dan noget? Du kan faktisk ogs\xE5
+    studere Medialogi p\xE5 engelsk.  "
   con3:
-  - "Gruppearbejde er nok ikke din yndlings ting, men det er du ikke alene om. Heldigvis
-    er der p\xE5 Aalborg Universitet stor fokus p\xE5 at give de studerende en masse
-    redskaber til at kunne indg\xE5 det bedst mulige samarbejde med de andre studerende
-    og h\xE5ndtere de problemer, der kunne opst\xE5 undervejs. "
+  - "Gruppearbejde er m\xE5ske ikke din yndlingsting, men det er du ikke alene om.
+    Heldigvis d\xE6kker undervisningen ogs\xE5 redskaber til at strukturere gruppearbejdet.
+    Det kan virke som en stor udfordring, men samarbejdet giver mulighed for at projekterne
+    kan n\xE5 et langt h\xF8jere niveau.   "
   - "Gruppearbejdet er en stor del af undervisningen p\xE5 Aalborg Universitet, s\xE5
     det er et stort plus at du er vild med gruppearbejde. Vi arbejder projektorienteret
-    sammen med vores medstuderende og udvikler seje ting hvert semester. "
-  - 
-  - 
+    sammen med vores medstuderende og udvikler seje og ambiti\xF8se projekter hvert
+    semester.   "
+  - "P\xE5 arbejdsmarkedet er det sv\xE6rt at undg\xE5 gruppearbejde eller anden
+    form for samarbejde. Undervisningen p\xE5 AAU d\xE6kker ogs\xE5 redskaber til
+    at h\xE5ndtere gruppearbejde, s\xE5 AAU er et godt sted at v\xE6nne sig til og
+    blive bedre til gruppearbejde. "
+  - "Du skal v\xE6re opm\xE6rksom p\xE5, at alt projektarbejde p\xE5 AAU foreg\xE5r
+    i grupper. Ud over at kunne l\xF8fte st\xF8rre projekter, s\xE5 er giver gruppearbejdet
+    ogs\xE5 en masse gode kompetencer som vil gavne dig i din professionelle karriere.   "
   usertypeIntro: 'Du er en '
   meme: {fileID: 1866184093}
   memebillede:
@@ -698,7 +714,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 290, y: -255}
+  m_AnchoredPosition: {x: -472, y: 112}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &774199792
@@ -1428,7 +1444,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -327, y: -563}
+  m_AnchoredPosition: {x: -937, y: -511}
   m_SizeDelta: {x: 450, y: 450}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1276867025
@@ -1504,7 +1520,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 303, y: -521}
+  m_AnchoredPosition: {x: -56, y: -17}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1336769112
