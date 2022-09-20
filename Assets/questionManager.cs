@@ -12,7 +12,7 @@ public class questionManager : MonoBehaviour
     public TextMeshProUGUI answerDisplay;
     public Image[] buttonImage;
     public questionsRow[] questions;
-    int endScene=3;
+    int endScene=2;
     // Start is called before the first frame update
     void Start()
     {
