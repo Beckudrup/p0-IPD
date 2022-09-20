@@ -2059,49 +2059,7 @@ MonoBehaviour:
     - answer: Jeg absolut hader det
       answerColor: {r: 1, g: 1, b: 1, a: 1}
       buttonImage: {fileID: 0}
-    - answer: Er hverken for eller imod det
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-  - question: "Hvorn\xE5r aflevere du typisk dine opgaver?"
-    questions:
-    - answer: "Jeg afleverer dagen f\xF8r eller p\xE5 dagen"
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: Jeg aflevere slet ikke opgaver
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: Det skifter
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: "Jeg bliver f\xE6rdigt hurtigst muligt."
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-  - question: Hvilke aktiviteter dyrker du mest?
-    questions:
-    - answer: Sport
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: Design
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: Gaming
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: Musik
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-  - question: "Er du nerv\xF8s over at skulle starte p\xE5 uni?  "
-    questions:
-    - answer: "Jeg er mega nerv\xF8s"
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: "Det skal nok g\xE5  "
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: En smule
-      answerColor: {r: 1, g: 1, b: 1, a: 1}
-      buttonImage: {fileID: 0}
-    - answer: "Nej overhovedet ikke nerv\xF8s"
+    - answer: Jeg er hverken for eller imod det
       answerColor: {r: 1, g: 1, b: 1, a: 1}
       buttonImage: {fileID: 0}
 --- !u!4 &1766456606
