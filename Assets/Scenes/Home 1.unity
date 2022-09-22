@@ -2534,17 +2534,22 @@ MonoBehaviour:
   - {fileID: 1951977679}
   - {fileID: 1928035223}
   - {fileID: 1663592331}
-  background: {fileID: 122565045}
-  backgroundListe:
-  - {fileID: 21300000, guid: fe8f02d0bf566cf42a1ae62ea4dc396e, type: 3}
-  - {fileID: 21300000, guid: 8d0cdd29f95521f4bac33336dbd52784, type: 3}
-  - {fileID: 21300000, guid: 46a0f43ad7677894ebd14d53c9ad1f6e, type: 3}
-  answerDisplay: {fileID: 1348880221}
   buttonImage:
   - {fileID: 2091706239}
   - {fileID: 1283583752}
   - {fileID: 1022870871}
   - {fileID: 1066048438}
+  background: {fileID: 122565045}
+  backgroundListe:
+  - {fileID: 21300000, guid: fe8f02d0bf566cf42a1ae62ea4dc396e, type: 3}
+  - {fileID: 21300000, guid: 8d0cdd29f95521f4bac33336dbd52784, type: 3}
+  - {fileID: 21300000, guid: 46a0f43ad7677894ebd14d53c9ad1f6e, type: 3}
+  progressbar: {fileID: 753506503}
+  progressbarList:
+  - {fileID: 21300000, guid: 96d49b0558c7d3e49bdbf37d25bfbe90, type: 3}
+  - {fileID: 21300000, guid: 852e078227faf014c9dafa9dbcf77e76, type: 3}
+  - {fileID: 21300000, guid: 408223d0a012f854aa403db175c3afcd, type: 3}
+  questionDisplay: {fileID: 1348880221}
   questions:
   - question: 'Hvilket af disse emner interesserer dig mest? '
     questions:
@@ -2588,11 +2593,6 @@ MonoBehaviour:
     - answer: Jeg er hverken for eller imod det
       answerColor: {r: 1, g: 1, b: 1, a: 1}
       buttonImage: {fileID: 21300000, guid: 2598731bee65bbc4eb898f78f43a106f, type: 3}
-  progressbar: {fileID: 753506503}
-  progressbarList:
-  - {fileID: 21300000, guid: 96d49b0558c7d3e49bdbf37d25bfbe90, type: 3}
-  - {fileID: 21300000, guid: 852e078227faf014c9dafa9dbcf77e76, type: 3}
-  - {fileID: 21300000, guid: 408223d0a012f854aa403db175c3afcd, type: 3}
 --- !u!4 &1766456606
 Transform:
   m_ObjectHideFlags: 0
