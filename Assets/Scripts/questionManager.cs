@@ -8,10 +8,13 @@ public class questionManager : MonoBehaviour
 {
     int questionIndex;
     public TextMeshProUGUI[] button;
- 
+    public Image background;
+    public Sprite[] backgroundListe;
     public TextMeshProUGUI answerDisplay;
     public Image[] buttonImage;
     public questionsRow[] questions;
+    public Image progressbar;
+    public Sprite[] progressbarList;
     int endScene=2;
     // Start is called before the first frame update
     void Start()
@@ -33,10 +36,12 @@ public class questionManager : MonoBehaviour
         {
             buttonImage[i].sprite = questions[questionIndex].questions[i].buttonImage;
             button[i].text = questions[questionIndex].questions[i].answer;
+            
 
         }
         answerDisplay.text = questions[questionIndex].question;
-
+        background.sprite = backgroundListe[questionIndex];
+        progressbar.sprite = progressbarList[questionIndex];
     }
     //Gemmer hvor langt vi er 
     public void buttonClick(int i)

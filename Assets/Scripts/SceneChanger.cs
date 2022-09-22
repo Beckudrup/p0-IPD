@@ -7,7 +7,6 @@ public class SceneChanger : MonoBehaviour
 
     private int nextScreen;
     private int prevScreen;
-    private bool egg = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -40,14 +39,9 @@ public void prevside(){
 public void backToBasics(){
 
 
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
 
 }
 
-public bool returEgg(){
 
-egg=true;
-return egg;
-
-}
 }
