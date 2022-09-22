@@ -2592,16 +2592,6 @@ MonoBehaviour:
       buttonImage: {fileID: 21300000, guid: f5e636afab3557042a396c40a572cc41, type: 3}
     - answer: Jeg er hverken for eller imod det
       answerColor: {r: 1, g: 1, b: 1, a: 1}
-<<<<<<< HEAD
-      buttonImage: {fileID: 21300000, guid: 2997bd70cf3c10e42bf2babaa0541a23, type: 3}
-  progressbar: {fileID: 753506503}
-  progressbarList:
-  - {fileID: 21300000, guid: 12d02de48d46f7146a62bf3b12060493, type: 3}
-  - {fileID: 21300000, guid: d58c17ae5b41c1943a3f1b5bbf605870, type: 3}
-  - {fileID: 21300000, guid: 71ed818dc664f274daa09732183fdb87, type: 3}
-=======
-      buttonImage: {fileID: 21300000, guid: 2598731bee65bbc4eb898f78f43a106f, type: 3}
->>>>>>> e8ce777026ee36b6e4f09a687ab151f5912e8b0a
 --- !u!4 &1766456606
 Transform:
   m_ObjectHideFlags: 0

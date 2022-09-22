@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Home 1.unity
     guid: 6603aa58b66538c448934ed1b32e6472
   - enabled: 1
-    path: Assets/Scenes/EndScreen.unity
+    path: Assets/Scenes/Slutskerm.unity
     guid: 5f9ae9c890e666f41b9992acd50397d1
   m_configObjects: {}
