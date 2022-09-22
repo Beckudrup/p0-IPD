@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class endScreen : MonoBehaviour
 {
-
+    
     public string[] con1;
     public string[] con15;
     public string[] con2;
